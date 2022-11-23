@@ -8,6 +8,7 @@ package daw.elisabet;
  *
  * @author elisabet
  */
+// enum de tipoAnimal
 public enum TipoAnimal {
     GATO, PERRO, LAGARTO, COBAYA, PERIQUITO;
 }

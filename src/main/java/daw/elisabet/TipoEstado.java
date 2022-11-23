@@ -8,8 +8,7 @@ package daw.elisabet;
  *gato", "perro", "lagarto", "cobaya", "periquito"
  * @author elisabet
  */
+// enum de tipoEstado
 public enum TipoEstado {
-    
-    COMIENDO,DURMIENDO,DESPIERTO, REPOSO,JUGANDO
-
+    COMIENDO,DURMIENDO,DESPIERTO_REPOSO,JUGANDO
 }
